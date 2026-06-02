@@ -1,6 +1,6 @@
 # Zomato Bangalore Market Entry - Advanced Database Architecture & Executive Business Intelligence
 
-* **Project Purpose:** To demonstrate a comprehensive, end-to-end data intelligence project from unstructured raw data extraction and programmatic Python preprocessing to PostgreSQL storage and executive-level Power BI deployment.
+* **Project Purpose:** To demonstrate a comprehensive, end-to-end data intelligence project from unstructured raw data extraction and programmatic Python preprocessing to MSSQL storage and executive-level Power BI deployment.
 * **Business Case:** To build a robust, production-ready marketing analysis framework that helps investors and restaurant groups successfully enter the hyper-competitive Bangalore restaurant ecosystem without risking capital blindly.
 * **Goal:** To accurately identify high-performing market opportunities (the "Sweet Spot" quadrants) while flagging high-risk, over-congested neighborhood clusters to minimize market entry failure rates.
 * **Deliverable:** An interactive, two-page executive Power BI analytics dashboard optimized with a Midnight Navy and Crimson Red corporate UI that connects seamlessly to a validated relational database backend.
