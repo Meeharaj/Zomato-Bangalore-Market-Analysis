@@ -10,7 +10,7 @@
 ## 📂 In This Repository
 * **Data & Data Dictionary:** Raw Zomato Bangalore documentation mapping essential restaurant attributes.
 * **ETL Pipeline & Engineering (`/scripts`):** Python/Pandas scripts for column parsing, textual manipulation, array splitting, and null value handling.
-* **PostgreSQL Architecture (`/database`):** Production-grade relational database setup scripts featuring advanced SQL validation schema queries (CTEs, Window Functions, and Multi-table Joins).
+* *MSSQL Architecture (`/database`):** Production-grade relational database setup scripts featuring advanced SQL validation schema queries (CTEs, Window Functions, and Multi-table Joins).
 * **Power BI Dashboard Build (`/dashboard`):** Fully interactive `.pbix` template file utilizing highly structured data models and customized DAX metrics.
 
 ---
