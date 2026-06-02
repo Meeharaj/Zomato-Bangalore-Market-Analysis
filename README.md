@@ -48,5 +48,5 @@ Hiring managers and end-users will be able to utilize this business intelligence
 ---
 
 ## 📋 Next Steps
-* **Continuous Integration:** Schedule automated pipeline runs to keep the PostgreSQL environment updated as updated Zomato transactional data becomes available.
+* **Continuous Integration:** Schedule automated pipeline runs to keep the MSSQL environment updated as updated Zomato transactional data becomes available.
 * **Predictive Features:** Expand the repository to integrate predictive machine learning models to forecast restaurant closing probabilities based on initial location, pricing, and launch features.
